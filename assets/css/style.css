@@ -75,7 +75,8 @@ section {
     height: 600px;
     background-size: cover;
     background-position: center;
-    position: relative;
+    position: relative;   
+}
 
 .hero-form {
     color: #024e76;
